@@ -1,0 +1,6 @@
+C:\Users\oussama2\source\repos\StreamAsync\AsyncStream\bin\Debug\AsyncStream.dll
+C:\Users\oussama2\source\repos\StreamAsync\AsyncStream\bin\Debug\AsyncStream.pdb
+C:\Users\oussama2\source\repos\StreamAsync\AsyncStream\obj\Debug\AsyncStream.csprojAssemblyReference.cache
+C:\Users\oussama2\source\repos\StreamAsync\AsyncStream\obj\Debug\AsyncStream.csproj.CoreCompileInputs.cache
+C:\Users\oussama2\source\repos\StreamAsync\AsyncStream\obj\Debug\AsyncStream.dll
+C:\Users\oussama2\source\repos\StreamAsync\AsyncStream\obj\Debug\AsyncStream.pdb

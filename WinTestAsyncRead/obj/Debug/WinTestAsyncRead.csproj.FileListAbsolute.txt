@@ -1,0 +1,13 @@
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\bin\Debug\WinTestAsyncRead.exe
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\bin\Debug\WinTestAsyncRead.pdb
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\bin\Debug\AsyncStream.dll
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\bin\Debug\AsyncStream.pdb
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.csprojAssemblyReference.cache
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.Form1.resources
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.Properties.Resources.resources
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.csproj.GenerateResource.cache
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.csproj.CoreCompileInputs.cache
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.csproj.CopyComplete
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.exe
+C:\Users\oussama2\source\repos\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.pdb
+C:\Users\assala\Desktop\StreamAsync\WinTestAsyncRead\obj\Debug\WinTestAsyncRead.pdb
